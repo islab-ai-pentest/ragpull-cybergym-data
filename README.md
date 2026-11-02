@@ -1,13 +1,13 @@
 # CyberGym Evidence RAG — data downloads
 
-Public data assets for [CyberGym Evidence RAG](https://github.com/islab-ai-pentest/ragpull-cyberx). Download links require no login. The runtime-code repository remains private; this repository publishes data and a reusable index, not a standalone application.
+Public data assets for [CyberGym Evidence RAG](https://github.com/islab-ai-pentest/ragpull-cybergym). Download links require no login. The runtime-code repository remains private; this repository publishes data and a reusable index, not a standalone application.
 
 ## Download
 
-- [Corpus + raw evidence + completed dense index](https://github.com/islab-ai-pentest/ragpull-cyberx-data/releases/download/openbook-r2/ragpull-openbook-r2.zip) — 834,328,287 bytes, approximately 834 MB ZIP.
-- [SHA256SUMS.txt](https://github.com/islab-ai-pentest/ragpull-cyberx-data/releases/download/openbook-r2/SHA256SUMS.txt)
-- [Verification and scope](https://github.com/islab-ai-pentest/ragpull-cyberx-data/releases/download/openbook-r2/verification.json)
-- [Release page](https://github.com/islab-ai-pentest/ragpull-cyberx-data/releases/tag/openbook-r2)
+- [Corpus + raw evidence + completed dense index](https://github.com/islab-ai-pentest/ragpull-cybergym-data/releases/download/openbook-r2/ragpull-openbook-r2.zip) — 834,328,287 bytes, approximately 834 MB ZIP.
+- [SHA256SUMS.txt](https://github.com/islab-ai-pentest/ragpull-cybergym-data/releases/download/openbook-r2/SHA256SUMS.txt)
+- [Verification and scope](https://github.com/islab-ai-pentest/ragpull-cybergym-data/releases/download/openbook-r2/verification.json)
+- [Release page](https://github.com/islab-ai-pentest/ragpull-cybergym-data/releases/tag/openbook-r2)
 
 Archive SHA-256: `094d1ab94284a0a0837f2bb2be88f87919acf7bb601c7bb9948ff56615f08905`.
 
